@@ -2,4 +2,4 @@ A simple implementation of the a Fibonacci Number generator with a compile time 
 
 Example of the output:
 
-![Example of the output](https://i.imgur.com/GAQ4vNk.png)
+![Example of the output](https://i.imgur.com/q3fQS5M.png)
